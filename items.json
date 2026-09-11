@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Coyote Vs Acme",
+    "category": "Movies",
+    "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c0/Coyote_vs._Acme_poster.jpg/250px-Coyote_vs._Acme_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "url": "https://vidsrcme.ru/embed/movie?imdb=tt1756855",
+    "infoUrl": "https://sito-esterno-info.com"
+  },
+  {
+    "id": 2,
+    "title": "Rai 1",
+    "category": "TV Channels",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg?utm_source=lij.wikipedia.org&utm_campaign=index&utm_content=original",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5",
+    "infoUrl": "#"
+  },
+  {
+    "id": 3,
+    "title": "The Gentlemen",
+    "category": "TV Shows",
+    "type": "series",
+    "poster": "https://via.placeholder.com/300x450",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          { "ep": 1, "title": "Episodio 1: Il cattivo", "url": "https://link-s1e1.com" },
+          { "ep": 2, "title": "Episodio 2: Eredità", "url": "https://link-s1e2.com" }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          { "ep": 1, "title": "Episodio 1: Ritorno", "url": "https://link-s2e1.com" }
+        ]
+      }
+    ],
+    "infoUrl": "#"
+  },
+  {
+    "id": 4,
+    "title": "Game Placeholder",
+    "category": "Games",
+    "poster": "https://via.placeholder.com/300x450",
+    "url": "https://tuo-link-gioco-embed.com",
+    "infoUrl": "#"
+  }
+]
